@@ -1,2 +1,2 @@
-# PepCoding-DSA
-Pepcoding Questions Solved (c++14/C++17)
+# PrepBytes-DSA
+Pepcoding Questions Solved (C++14/C++17)
